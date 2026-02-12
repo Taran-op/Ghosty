@@ -1,0 +1,5 @@
+default = "rule34"
+
+[rule34]
+auth = "api_key=cb360fe169c752b88150137c4a0bcdb0df773a71f3577dd973be04f39a3a02b82dd7ce2480c18a9ae83ad3672669ebd33be66de5da46bb86ba5409a508508648&user_id=5927646"
+tags = "-ai_generated -video score:>10 -anthro -ai_assisted -animal -beastiality"
